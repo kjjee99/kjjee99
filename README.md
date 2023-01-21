@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <br>
 
-![Jungeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjjee99&show_icons=true&theme=radical)
+![Jungeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeun&show_icons=true&theme=graywhite)
