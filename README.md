@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <p align="center"> 
-  Are you curious about <strong>ME?!</strong> <br> 
-  [Portfolio](https://dodo-elice.notion.site/_-afac1a51ee10495aa94b0c595eeffdc8?pvs=4)
+  🧐Are you curious about <strong>ME?!</strong> <br> 
+  👉<a href="https://dodo-elice.notion.site/_-afac1a51ee10495aa94b0c595eeffdc8?pvs=4">Portfolio</a>👈
 </p>
 
 <hr/>
